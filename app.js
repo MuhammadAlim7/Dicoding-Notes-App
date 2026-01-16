@@ -1,6 +1,7 @@
 import "./src/components/app-bar.js";
 import "./src/components/note-input.js";
 import "./src/components/note-item.js";
+import "./src/components/footer-bar.js";
 import notesData from "./notes.js";
 
 const notesListElement = document.getElementById("notes-list");
