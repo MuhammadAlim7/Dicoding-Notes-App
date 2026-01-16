@@ -43,19 +43,13 @@ Aplikasi catatan modern dan responsif yang dibangun dengan Vanilla JavaScript, W
 
 Karena proyek ini menggunakan ES Modules, diperlukan server lokal.
 
-1.  **Buka situs ini di browser**
-2.  **Clone/Download** proyek ini.
-3.  **Instal Dependensi** (untuk linting):
+1.  **Clone/Download** proyek ini.
+2.  **Instal Dependensi** (untuk linting):
     ```bash
     npm install
     ```
-4.  **Jalankan dengan Python**:
-    ```bash
-    python -m http.server
-    ```
-    Atau gunakan ekstensi "Live Server" di VS Code.
-5.  **Buka di Browser**:
-    Buka `http://localhost:8000`
+3.  **Buka di Browser**:
+    Buka `http://localhost:5500`
 
 ## 📝 Perintah (Commands)
 
